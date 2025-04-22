@@ -1,0 +1,82 @@
+{
+    "places": [
+      {
+        "id": "kainchi_dham",
+        "name": "Kainchi Dham",
+        "latitude": 29.3824642,
+        "longitude": 79.4326585,
+        "distance_from_kainchi_dham_km": 0
+      },
+      {
+        "id": "nainital",
+        "name": "Nainital",
+        "latitude": 29.3803,
+        "longitude": 79.4636,
+        "distance_from_kainchi_dham_km": 3.5
+      },
+      {
+        "id": "bhimtal",
+        "name": "Bhimtal",
+        "latitude": 29.3444,
+        "longitude": 79.5633,
+        "distance_from_kainchi_dham_km": 15.0
+      },
+      {
+        "id": "almora",
+        "name": "Almora",
+        "latitude": 29.5970,
+        "longitude": 79.6591,
+        "distance_from_kainchi_dham_km": 45.0
+      },
+      {
+        "id": "ranikhet",
+        "name": "Ranikhet",
+        "latitude": 29.6424,
+        "longitude": 79.4322,
+        "distance_from_kainchi_dham_km": 50.0
+      },
+      {
+        "id": "mukteshwar",
+        "name": "Mukteshwar",
+        "latitude": 29.4722,
+        "longitude": 79.6476,
+        "distance_from_kainchi_dham_km": 25.0
+      },
+      {
+        "id": "kausani",
+        "name": "Kausani",
+        "latitude": 29.8409,
+        "longitude": 79.5980,
+        "distance_from_kainchi_dham_km": 65.0
+      },
+      {
+        "id": "binsar",
+        "name": "Binsar",
+        "latitude": 29.6520,
+        "longitude": 79.6400,
+        "distance_from_kainchi_dham_km": 60.0
+      },
+      {
+        "id": "sattal",
+        "name": "Sattal",
+        "latitude": 29.3481,
+        "longitude": 79.5445,
+        "distance_from_kainchi_dham_km": 20.0
+      },
+      {
+        "id": "haldwani",
+        "name": "Haldwani",
+        "latitude": 29.2190,
+        "longitude": 79.5286,
+        "distance_from_kainchi_dham_km": 40.0
+      },
+      {
+        "id": "kathgodam",
+        "name": "Kathgodam",
+        "latitude": 29.2736,
+        "longitude": 79.5329,
+        "distance_from_kainchi_dham_km": 35.0
+      }
+    ]
+  }
+  
