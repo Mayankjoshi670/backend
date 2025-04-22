@@ -1,11 +1,11 @@
 const express = require('express');
 const router = express.Router();
-const dataSchema = require('../models/user'); // ✅ Fix the path if it's not at the same level
+const dataSchema = require('../models/user');  
 const axios = require('axios');
 
 router.post('/optimal', async (req, res) => {
   try {
-    const { name, from, to, date, vehicleNo, vehicleType } = req.body; // ✅ Changed `request` to `req`
+    const { name, from, to, date, vehicleNo, vehicleType } = req.body;  
 
     // Validate inputs
     if (!name || !from || !to || !date || !vehicleNo || !vehicleType) {
@@ -14,7 +14,7 @@ router.post('/optimal', async (req, res) => {
 
     // Save to DB
     const newData = new dataSchema({ name, to, from, date, vehicleNo, vehicleType });
-    const ticket = await newData.save(); // ✅ Fixed typo: should call `save()` on `newData`, not `dataSchema`
+    const ticket = await newData.save();  
 
     // Call time slot API
     const timeSlotRes = await axios.post('http://localhost:5000/api/timeslots', {
