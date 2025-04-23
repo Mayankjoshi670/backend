@@ -1,6 +1,6 @@
 const express = require('express');
 const router = express.Router();
-const TimeSlot = require('../models/TimeSlot');
+const TimeSlot = require('./models/TimeSlot');
 const { getCongestionFromModel, getDisabledSlots } = require('./dataFetchers'); 
 
 // Slot order pattern: [2wheeler, 4wheeler, heavy] repeating

@@ -4,7 +4,7 @@ const fetch = require("node-fetch");
 const moment = require("moment");
 const fs = require("fs");
 
-const holidays = JSON.parse(fs.readFileSync('../holidays.json'));
+const holidays = JSON.parse(fs.readFileSync('./holidays.json'));
 
 const timeSlots = [
   '8:00-8:30', '8:30-9:00', '9:00-9:30', '9:30-10:00',

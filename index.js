@@ -3,6 +3,7 @@ const express = require('express');
 const mongoose = require('mongoose');
 const cors = require('cors');
 const http = require('http');
+const socketIo = require('socket.io');
 const optimalRoute = require('./optimalRoute');
 const timeslots = require('./timeslots')
 const optimalPath = require('./optimalPath')
@@ -46,9 +47,10 @@ app.use('/api' , liveStats) ;
 
 app.use('/api' , graphVisulizer) ; 
    
+//  now we need to create  a
 
 // Start server
-const PORT = process.env.PORT || 5000;
+const PORT = process.env.PORT || 5003;
 server.listen(PORT, () => {
   console.log(`Server running on port ${PORT}`);
 });

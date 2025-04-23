@@ -1,6 +1,6 @@
 const express = require('express');
 const router = express.Router();
-const dataSchema = require('../models/user');  
+const dataSchema = require('./models/user');  
 const axios = require('axios');
 
 router.post('/optimal', async (req, res) => {
