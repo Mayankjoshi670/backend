@@ -1,9 +1,8 @@
-// models/TimeSlot.js
 const mongoose = require('mongoose');
 
 const timeSlotSchema = new mongoose.Schema({
   date: {
-    type: String, // Store as 'YYYY-MM-DD' string for easy lookup
+    type: String, // Format: 'YYYY-MM-DD'
     required: true,
   },
   slotNumber: {
@@ -12,7 +11,7 @@ const timeSlotSchema = new mongoose.Schema({
   },
   vehicleType: {
     type: String,
-    enum: ['car', '2wheeler', 'heavy'],
+    enum: ['2wheeler', '4wheeler', 'heavy'], // Ensure consistency with controller
     required: true,
   },
   vehicles: {

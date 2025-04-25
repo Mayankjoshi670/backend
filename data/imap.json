@@ -1,0 +1,39 @@
+{
+    "routes": [
+      {
+        "from": "Haldwani, Uttarakhand",
+        "to": "Kainchi Dham, Uttarakhand",
+        "src": "https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d13818.15816836175!2d79.51611654064024!3d29.28712812835326!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0x39a0a5c4f715b33f%3A0xd55e68c68218473f!2sHaldwani%2C%20Uttarakhand!3m2!1d29.2162!2d79.5229!4m5!1s0x39a0b2035f3824ab%3A0x64ed65a3580e086f!2sKainchi%20Dham%2C%20Bhowali-Ramgarh-Mukteshwar%20Rd%2C%20Uttarakhand%20263401!3m2!1d29.3877!2d79.5370!5e0!3m2!1sen!2sin!4v1713868693200!5m2!1sen!2sin"
+      },
+      {
+        "from": "Kathgodam, Uttarakhand",
+        "to": "Kainchi Dham, Uttarakhand",
+        "src": "https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d55302.04500223676!2d79.54413516925276!3d29.306949423289206!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0x39a0a5e7ab9a7a67%3A0x16a9d297655ccf3e!2sKathgodam%2C%20Uttarakhand!3m2!1d29.2934!2d79.5467!4m5!1s0x39a0b2035f3824ab%3A0x64ed65a3580e086f!2sKainchi%20Dham%2C%20Bhowali-Ramgarh-Mukteshwar%20Rd%2C%20Uttarakhand%20263401!3m2!1d29.3877!2d79.5370!5e0!3m2!1sen!2sin!4v1713870033253!5m2!1sen!2sin"
+      },
+      {
+        "from": "Nainital, Uttarakhand",
+        "to": "Kainchi Dham, Uttarakhand",
+        "src": "https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d13815.067850338903!2d79.44097692600187!3d29.380086937370672!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0x39a0b7eb70e5e5b9%3A0x46924d46d06a7626!2sNainital%2C%20Uttarakhand!3m2!1d29.3919!2d79.4542!4m5!1s0x39a0b2035f3824ab%3A0x64ed65a3580e086f!2sKainchi%20Dham%2C%20Bhowali-Ramgarh-Mukteshwar%20Rd%2C%20Uttarakhand%20263401!3m2!1d29.3877!2d79.5370!5e0!3m2!1sen!2sin!4v1713870204269!5m2!1sen!2sin"
+      },
+      {
+        "from": "Delhi, India",
+        "to": "Kainchi Dham, Uttarakhand",
+        "src": "https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d224378.94723238814!2d77.01863281697799!3d28.6469252231675!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0x390cfdcc22bfc7df%3A0x24e1f7ef9087281d!2sDelhi!3m2!1d28.6139!2d77.209!4m5!1s0x39a0b2035f3824ab%3A0x64ed65a3580e086f!2sKainchi%20Dham%2C%20Bhowali-Ramgarh-Mukteshwar%20Rd%2C%20Uttarakhand%20263401!3m2!1d29.3877!2d79.5370!5e0!3m2!1sen!2sin!4v1713870401234!5m2!1sen!2sin"
+      }, {
+        "from": "Almora, Uttarakhand",
+        "to": "Kainchi Dham, Uttarakhand",
+        "src": "https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d13804.272894878182!2d79.62211386208646!3d29.599431444934494!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0x39a0a1a5056b9c33%3A0xb89e8f0bc07e097a!2sAlmora%2C%20Uttarakhand!3m2!1d29.5973!2d79.6591!4m5!1s0x39a0b2035f3824ab%3A0x64ed65a3580e086f!2sKainchi%20Dham%2C%20Bhowali-Ramgarh-Mukteshwar%20Rd%2C%20Uttarakhand%20263401!3m2!1d29.3877!2d79.5370!5e0!3m2!1sen!2sin!4v1713871509876!5m2!1sen!2sin"
+      },
+      {
+        "from": "Pithoragarh, Uttarakhand",
+        "to": "Kainchi Dham, Uttarakhand",
+        "src": "https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d55616.17158203645!2d80.20265036651229!3d29.58088167283779!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0x39a78a5f07aef151%3A0x92d98e5d1b309c49!2sPithoragarh%2C%20Uttarakhand!3m2!1d29.5802!2d80.2181!4m5!1s0x39a0b2035f3824ab%3A0x64ed65a3580e086f!2sKainchi%20Dham%2C%20Bhowali-Ramgarh-Mukteshwar%20Rd%2C%20Uttarakhand%20263401!3m2!1d29.3877!2d79.5370!5e0!3m2!1sen!2sin!4v1713871641744!5m2!1sen!2sin"
+      },
+      {
+        "from": "Bhowali, Uttarakhand",
+        "to": "Kainchi Dham, Uttarakhand",
+        "src": "https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d13818.15816836175!2d79.51611654064024!3d29.28712812835326!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0x39a0b23324a6e8e3%3A0x4e582dcddf8785ff!2sBhowali%2C%20Uttarakhand!3m2!1d29.3905!2d79.5144!4m5!1s0x39a0b2035f3824ab%3A0x64ed65a3580e086f!2sKainchi%20Dham%2C%20Bhowali-Ramgarh-Mukteshwar%20Rd%2C%20Uttarakhand%20263401!3m2!1d29.3877!2d79.5370!5e0!3m2!1sen!2sin!4v1713871800142!5m2!1sen!2sin"
+      } 
+    ]
+  }
+  
